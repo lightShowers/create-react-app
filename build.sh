@@ -1,3 +1,2 @@
-npm install react-scripts -g
-yarn
-yarn build
+npm install
+npm run build
